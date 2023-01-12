@@ -64,3 +64,18 @@ th {
   font-family: "Merriweather", serif;
   font-size: 20px;
 }
+
+main {
+  height: 400px;
+}
+
+footer {
+  text-align: center;
+}
+
+p a {
+  text-decoration: none;
+  color: rgb(246, 202, 6);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
